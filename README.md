@@ -11,5 +11,7 @@ The following models were used to carry out the analysis :
 
 
 ## Future uploads
-Many .py files regarding testing and evaluation have not been released for now , also the finetuned models with their updated weights will be released later after gettu=ing them checked or after publishing of the Report .
-After publishing of report, the models, test and evaluation files and all the datasets used during the Analysis will be released in this repo or a new repo with a similar name will be launched then. 
+Many .py files regarding training and testing evaluation have not been released for now.
+
+Also the finetuned models with their updated weights will be released later after getting them checked or after publishing of the Report .
+After publishing of report, the models, test and evaluation files and all the datasets used during the Analysis will be released in this repo or a new repo with a similar name will be launched at that time. 
